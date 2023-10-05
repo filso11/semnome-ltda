@@ -71,11 +71,3 @@ Certifique-se de ter as seguintes tecnologias instaladas em sua máquina antes d
 ## Contribuindo
 
 Sinta-se à vontade para contribuir para este projeto. Você pode enviar problemas, sugestões ou até mesmo solicitar solicitações de pull.
-
-## Licença
-
-Este projeto é distribuído sob a [Licença MIT](LICENSE). Sinta-se à vontade para usá-lo conforme necessário.
-
----
-
-**Nota:** Este é um projeto de exemplo e pode não incluir todas as funcionalidades ou tratamentos de erro necessários para um aplicativo em produção. Certifique-se de implementar medidas de segurança e validações adicionais, dependendo das necessidades do seu aplicativo.
