@@ -4,10 +4,10 @@ Este é um projeto de aplicativo web desenvolvido em Python utilizando o framewo
 
 ## Funcionalidades
 
-- Formulário web com campos para inserir nome, peso e altura.
-- Botão para calcular o IMC com base nos valores inseridos.
+- Formulário web com campos para inserir nome, peso e altura. ✅
+- Botão para calcular o IMC com base nos valores inseridos. ✅
 - Validação do nome para evitar duplicações no banco de dados.
-- Botão para salvar os dados do cálculo do IMC no banco de dados.
+- Botão para salvar os dados do cálculo do IMC no banco de dados. ✅
 
 ## Tecnologias Utilizadas
 
